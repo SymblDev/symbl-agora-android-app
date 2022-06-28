@@ -46,7 +46,7 @@ It is merely for demonstration purposes only but any one is free to refactor the
 3. The third step is to clone the repo. Here is the link: 
 
 ```bash
-git clone git@github.com:symblai/symbl-agora-Android-app.git
+git clone git@github.com:SymblDev/symbl-agora-android-app.git 
 ```
 4. The fourth step is to update the `strings.xml` file with values for the following:
 
@@ -78,13 +78,13 @@ This guide is actively developed, and we love to hear from you! Please feel free
 
 This library is released under the [MIT License][license]
 
-[license]: LICENSE.txt
+[license]: LICENSE
 [telephony]: https://docs.symbl.ai/docs/telephony/overview/post-api
 [websocket]: https://docs.symbl.ai/docs/streamingapi/overview/introduction
-[console]: https:console.agora.io
+[console]: https://console.agora.io
 [marketplace]: https://www.agora.io/en/agora-extensions-marketplace/
 [symbl_extension]: https://www.agora.io/en/agora-extensions-marketplace/symbl-transcription-conversation-analytics/
 [slack]: https://join.slack.com/t/symbldotai/shared_invite/zt-4sic2s11-D3x496pll8UHSJ89cm78CA
-[signup]: https://platform.symbl.ai/?_ga=2.90794201.232722623.1641351522-1406598850.1641351522#/signup
-[issues]: https://github.com/symblai/symbl-agora-Android-app/issues
-[pulls]: https://github.com/symblai/symbl-agora-Android-app/pulls
+[signup]: https://platform.symbl.ai/#/signup
+[issues]: https://github.com/SymblDev/symbl-agora-android-app/issues
+[pulls]: https://github.com/SymblDev/symbl-agora-android-app/pulls
